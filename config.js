@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://app.asana.com/',
 				},
 				{
-					name: 'Passbolt',
-					link: 'https://passbolt.afew-store.org/',
+					name: 'Personio',
+					link: 'https://afew.personio.de/',
 				},
 				{
 					name: 'Shyftplan',
@@ -158,32 +158,33 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'globe',
+			icon: 'database',
 			id: '2',
 			links: [
 				{
 					name: 'Shopify',
-					link: 'https://www.linkedin.com',
+					link: 'https://admin.shopify.com/store/afew-store',
 				},
 				{
 					name: 'Pimcore',
-					link: 'https://www.dribbble.com',
+					link: 'https://pimcore.afew-store.org/',
 				},
 				{
-					name: 'Personio',
-					link: 'https://www.trello.com',
+					name: 'Passbolt',
+					link: 'https://passbolt.afew-store.org/',
 				},
 				{
-					name: ' ',
-					link: 'https://www.slack.com',
+					name: ''
+					
 				},
+				
 			],
 		},
 	],
 // Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'globe',
+			icon: 'clipboard-list',
 			id: '1',
 			links: [
 				{
@@ -213,16 +214,16 @@ const CONFIG = {
 					link: 'https://app.asana.com/0/217232717323313/1204991569192678',
 				},
 				{
-					name: '',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Notfall, wenn Marco E. und Max nicht erreichbar sind:',
+					link: '',
+				},
+				{
+					name: 'Gatworks: 02161 684640',
+					link: '',
 				},
 				{
 					name: '',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: '',
-					link: 'https://github.com/migueravila',
+					link: '',
 				},
 			],
 		},
