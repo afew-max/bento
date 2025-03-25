@@ -135,96 +135,97 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'globe',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Asana',
+					link: 'https://app.asana.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Passbolt',
+					link: 'https://passbolt.afew-store.org/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Shyftplan',
+					link: 'https://shyftplan.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Wiki',
+					link: 'http://wiki.afew-store.org/',
 				},
+				
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'globe',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
+					name: 'Shopify',
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
+					name: 'Pimcore',
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Trello',
+					name: 'Personio',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
+					name: ' ',
 					link: 'https://www.slack.com',
 				},
 			],
 		},
 	],
-
-	// Second Links Container
+// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'globe',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Reservierungen Doc',
+					link: 'https://docs.google.com/spreadsheets/d/1AMGM1mzVMTgeYZAf2MWOwgCYkPxRrZBlRqhUbzDyLT4/edit?gid=1135714417#gid=1135714417',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Buchhaltung Doc',
+					link: 'https://docs.google.com/spreadsheets/d/1x2XZhxCM_Eu9k8U9thG1gwrtcpFME3e3ErwbsdX-tfw/edit?gid=2005595482#gid=2005595482',
 				},
 				{
-					name: 'Hashnode',
+					name: '',
 					link: 'https://www.hashnode.com',
 				},
 				{
-					name: 'Pocket',
+					name: '',
 					link: 'https://www.pocket.com',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'binary',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'IT Tickets',
+					link: 'https://app.asana.com/0/217232717323313/1204991569192678',
 				},
 				{
-					name: 'Rust',
+					name: '',
 					link: 'https://www.reddit.com/r/rust/',
 				},
 				{
-					name: 'Go',
+					name: '',
 					link: 'https://www.reddit.com/r/golang/',
 				},
 				{
-					name: 'Repos',
+					name: '',
 					link: 'https://github.com/migueravila',
 				},
 			],
 		},
 	],
+	
 };
