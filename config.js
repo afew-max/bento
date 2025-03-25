@@ -210,7 +210,7 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'IT Tickets',
+					name: 'IT Ticket erstellen',
 					link: 'https://app.asana.com/0/217232717323313/1204991569192678',
 				},
 				{
